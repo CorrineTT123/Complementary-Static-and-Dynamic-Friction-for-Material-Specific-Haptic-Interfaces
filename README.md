@@ -1,0 +1,1 @@
+# Complementary-Static-and-Dynamic-Friction-for-Material-Specific-Haptic-Interfaces
